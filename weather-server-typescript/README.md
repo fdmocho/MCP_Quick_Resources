@@ -15,9 +15,13 @@ _add mcp build folder or copy index.js build to your mcp server folder_
 - get-alerts
 - get-forecast
 
-**build**
+**Build**
 
-_windows_
+- _windows_
+```bash
 npm run buildwin
-_linux_
+```
+- _linux_
+```bash
 npm run build
+```
