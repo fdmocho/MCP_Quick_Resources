@@ -1,3 +1,6 @@
+
+
+
 # Create project directory
 md mcp-client-typescript
 cd mcp-client-typescript
@@ -13,3 +16,4 @@ npm install -D @types/node typescript
 
 # Create source file
 new-item index.ts
+
